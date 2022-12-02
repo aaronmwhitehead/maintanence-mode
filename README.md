@@ -1,1 +1,1 @@
-# maintanence-mode
+# maintenance-mode
